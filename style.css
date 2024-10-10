@@ -1,0 +1,23 @@
+td {
+    border: 1px double black;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 2px 4px;
+}
+
+#ahead {
+    background-color: yellow;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.black {
+    background-color: black;
+    color: bisque;
+}
+
+.pink {
+    background-color: pink;
+}
